@@ -7,7 +7,7 @@ extern "C"
 #endif
 
   int HCOpencvDraw(char *fromPath,char *toPath,char *text,int xmin,int ymin,int length,int wideth);
-
+  //画框
 #ifdef __cplusplus
 }
 #endif
